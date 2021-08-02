@@ -12,8 +12,6 @@ We applied the You Only Look Once (YOLOv4) algorithm on real-world challenges in
 * Deep Machine Learning Poster.pdf
 * countOnesAndZeros.py
 * renameBeginning.py
-* Final_Project
-* first training.ipynb
-* Final_Project
-* second training.ipynb
+* Final_Project, first training.ipynb
+* Final_Project, second training.ipynb
 * testValTrain.py
